@@ -1,0 +1,17 @@
+TENDER NO: GOV-PWR-2025-09
+ISSUING AUTHORITY: Central Power Distribution Company
+DUE DATE: 2026-03-15
+
+SCOPE OF SUPPLY:
+Supply of Low Voltage Power Cables for Substation Upgrade.
+
+ITEM 1:
+- Description: 4 Core, Copper Conductor, XLPE Insulated, Armoured Cable
+- Voltage Grade: 1100 V
+- Conductor Size: 16 sq mm
+- Outer Sheath: FRLS (Fire Retardant Low Smoke) PVC
+- Quantity: 5000 meters
+
+TESTING REQUIREMENTS:
+- Routine Tests as per IS 7098 (Part-1)
+- Flammability Test (IEC 60332)

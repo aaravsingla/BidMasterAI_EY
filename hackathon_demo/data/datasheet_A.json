@@ -1,0 +1,13 @@
+{
+  "sku_id": "CABLE-CU-16-FRLS",
+  "product_name": "Premium Power Cable 16mm 4C",
+  "specs": {
+    "conductor_material": "Copper",
+    "cores": 4,
+    "insulation": "XLPE",
+    "armour": "Galvanized Steel Strip",
+    "voltage_grade": "1100 V",
+    "size": "16 sq mm",
+    "sheath_type": "FRLS PVC"
+  }
+}

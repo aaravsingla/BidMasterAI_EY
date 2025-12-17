@@ -1,0 +1,5 @@
+item_type,name,cost
+material,CABLE-CU-16-FRLS,450
+material,CABLE-CU-16-STD,300
+test,Routine Tests,0
+test,Flammability Test,1500

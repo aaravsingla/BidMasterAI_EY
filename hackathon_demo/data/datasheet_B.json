@@ -1,0 +1,13 @@
+{
+  "sku_id": "CABLE-CU-16-STD",
+  "product_name": "Standard Duty Cable 16mm 4C",
+  "specs": {
+    "conductor_material": "Copper",
+    "cores": 4,
+    "insulation": "PVC",
+    "armour": "Round Wire",
+    "voltage_grade": "600 V",
+    "size": "16 sq mm",
+    "sheath_type": "General Purpose PVC"
+  }
+}
