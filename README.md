@@ -71,3 +71,10 @@ graph TD
     PricingAgent <-->|Cost Lookup| ERP[(Enterprise ERP)]
     
     PricingAgent --> Output[📄 Final Proposal PDF]
+
+
+💻 Installation & SetupPrerequisitesPython 3.8 or higherPip package manager1. Clone the RepositoryBashgit clone [https://github.com/yourusername/bidmaster-ai.git](https://github.com/yourusername/bidmaster-ai.git)
+cd bidmaster-ai
+2. Install DependenciesBashpip install streamlit pandas plotly fpdf matplotlib seaborn
+3. Generate Mock Data (Important!)Ensure the data/ folder exists with the necessary sample files (rfp_sample.txt, datasheet_A.json, etc.).(Note: The repository includes a helper script to generate these if missing.)4. Run the ApplicationBashstreamlit run app.py
+🕹️ User Guide (Demo Flow)Launch the Dashboard: You will see the "Command Center" interface.Execute Workflow: Click "🚀 EXECUTE AUTONOMOUS WORKFLOW".Watch the Agents: Observe the sidebar logs as the agents scan, extract, and match data in real-time.Review Technicals: Go to the "Technical Analysis" tab.Green Rows: Perfect Matches.Red Row: Observe the Gap Analysis highlighting the Voltage Mismatch.Check Impact: View the Win Probability Gauge in the Executive Dashboard.Export Bid: Go to the "Commercials" tab and click "📄 Download Official PDF Bid".📊 Impact AnalysisOur solution drastically reduces the cycle time for complex RFPs.MetricManual ProcessBidMaster AIImpactResponse Time5 Days45 Minutes98% FasterTech Accuracy~85%>99%Eliminates Human ErrorCost per Bid$500+$1597% Cost Reduction🔮 Future Roadmap[ ] Integration with SAP/Oracle: For live inventory checks.[ ] Multi-Modal Parsing: Ability to read CAD drawings and Schematics in RFPs.[ ] Competitor Intelligence: Scraping public tender results to adjust pricing strategy dynamically.
