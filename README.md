@@ -70,6 +70,19 @@ graph TD
     Orchestrator --> PricingAgent[💰 Pricing Agent]
     PricingAgent <-->|Cost Lookup| ERP[(Enterprise ERP)]
     
-    PricingAgent --> Output[📄 Final Proposal PDF]
-'''
-h
+    PricingAgent --> Output[📄 Final Proposal PDF];
+```
+
+## 💻 Installation & Setup
+
+### Prerequisites
+- Python 3.8 or higher
+- Pip package manager
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/yourusername/bidmaster-ai.git](https://github.com/yourusername/bidmaster-ai.git)
+cd bidmaster-ai
+
+
+
